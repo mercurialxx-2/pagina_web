@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: rgba(32, 42, 184, 0.74);
+    color: rgb(0, 0, 0);
+}
+
+header {
+    background-color: cornflowerblue;
+    color: black;
+    padding: 20px;
+    text-align: center;
+    border: 3px solid blue;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.9);
+    margin: 5px;
+    border-radius: 30px;
+    -webkit-border-radius: 30px;
+    -moz-border-radius: 30px;
+    -ms-border-radius: 30px;
+    -o-border-radius: 30px;
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    display: inline;
+}
+
+#sobre-mi {
+    text-transform: uppercase;
+}
+
+#contacto {
+    text-transform: uppercase;
+}
+
+.estilos-generales {
+    text-align: center;
+}
